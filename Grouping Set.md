@@ -1,4 +1,4 @@
-# Hive 中的Grouping Set
+# Hive 中的Grouping Sets
 
 Enhanced Aggregation, Cube, Grouping and Rollup
 
